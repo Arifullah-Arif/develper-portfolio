@@ -1,0 +1,195 @@
+
+*.btn{
+  background-color: rgb(212, 72, 7);
+  color: #001aff;
+  border-radius: 8px;
+   height: 50px;
+   font-size: medium  ;
+
+}
+nav{
+  background-color: lavender;
+  background-image:url(images/vincent-burkhead-LhlxYMfnTF0-unsplash\(1\).jpg);
+}
+
+.nav-discrip{
+  text-align: center;
+  margin-right: 750px;
+  margin-top: 5px;
+  padding: 20px 60px;
+
+}
+.nav-discrip-2{
+  text-align: right;
+  margin-left: 750px;
+  
+}
+.navdiv{
+
+  display: flex;
+  color:rgb(0, 100, 139);
+   
+  font-size: large;
+  font-style: italic;
+  font-family:'Courier New', Courier, monospace;
+   margin-left: 66px;
+ 
+}
+nav ul li a{
+  text-decoration: none;
+  color: black;
+
+}
+nav li:hover{
+  background-color: rgb(86, 134, 134);
+  
+}
+.nav-i{
+  width: 30px;
+  height: 700px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  margin-left: 55%;
+}
+ nav img{
+  height: 80%;
+  width: 70%;
+  opacity: .7;
+ }
+.future{
+  text-align: center;
+  background-color:  #cc99ff
+  ;
+}
+header{
+   background-image: url(images/matthieu-comoy-t0h0oKwS1xY-unsplash.jpg);
+   background-size: cover;
+   position: relative;
+   filter: grayscale(20%);
+ 
+ width: auto;
+
+}
+ .header-img{
+  
+  height: 200px;
+  width: 400px;
+   
+  opacity: .7;
+ float: right top ;  
+ margin-bottom: 20px;
+ margin-left: 900px;
+ 
+ }
+.header-img:hover{
+  transform: scaleX(-1);
+ 
+}
+ 
+ 
+ 
+.header-dis{
+  font-style:normal;
+  
+  font-size: medium;
+  color:  #00ff0d;
+  text-align: center;
+
+}
+.header-dis span{
+  color: darkgreen;
+
+  
+}
+.main-section{
+  /* background-image:url(images/backcolor.jpg); */
+}
+main .future{
+  background-image:url(images/backwater.jpg);
+}
+
+.csl{
+  /* background-color: rgb(163, 141, 141); */
+}
+.csl ul  li{
+  border: 3px solid black;
+  list-style: none;
+  text-align: center;
+  gap: 10px;
+  margin: 0 350px;
+  background-color: #ffff00;
+  background-image: url(images/boy-coffe.jpg);
+  background-repeat: no-repeat;
+}
+audio{
+  margin-left: 65%;
+
+}
+video{
+  margin-bottom: 30px;
+  margin-right: 65px;
+  box-shadow:#00ff0d;
+}
+.table{
+  border: 3px solid darkcyan;
+  text-align: center;
+}
+table{
+text-align: center;
+  border-collapse: collapse;
+  background-color: #00ff0d;
+  font-family: fantasy;
+  font-size: medium;
+  margin-left: 380px;
+}
+td{
+  border: 2px solid rebeccapurple   ;
+
+
+}
+fieldset{
+  display: block;
+  font-family:cursive;
+ 
+
+}
+ 
+/* form section */
+form input{
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+.about{
+  text-align: center;
+  border: 5px solid firebrick;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+section ul li img{
+  height: 50px;
+  width: 50px;
+}
+section ul {
+  display: flex;
+  gap: 10px;
+  margin-right: 20px;
+}
+section ul li{
+  border: 2px solid black;
+  text-align: center;
+  list-style: none;
+
+}
+footer{
+  background-image: url(images/copy.jpeg);
+  text-align: center;
+  color: darkgreen;
+  background-repeat: no-repeat;
+ 
+ 
+}
+ 
+  
